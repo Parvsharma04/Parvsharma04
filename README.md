@@ -7,13 +7,13 @@
 
 - 🌱 I’m currently learning **Express.js, Node.js, MongoDB**
 
-- 👨‍💻 All of my projects are available at [https://parvsharma04.netlify.app/](https://parvsharma04.netlify.app/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://parvsharma04.netlify.app/)
 
 - 💬 Ask me about **react, vite, bootstrap, tailwind**
 
 - 📫 How to reach me **sharmaparv.2004@gmail.com**
 
-- 📄 Know about my experiences [https://parvsharma04.netlify.app/assets/Resume.pdf](https://parvsharma04.netlify.app/assets/Resume.pdf)
+- 📄 Know about my experiences [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf)
 
 - ⚡ Fun fact **I play the Guitar and Workout regularly.**
 
