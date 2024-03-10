@@ -15,6 +15,8 @@
 
 - 📄 Know about my experiences [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf)
 
+- Catch me on [LinkedIn](https://www.linkedin.com/in/parv-sharma-470498259/)
+
 - ⚡ Fun fact **I play the Guitar and Workout regularly.**
 <br/>
 <h3 align="left">Connect with me:</h3>
