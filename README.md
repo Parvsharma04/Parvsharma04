@@ -17,7 +17,7 @@
 
 - Catch me on [LinkedIn](https://www.linkedin.com/in/parv-sharma-470498259/)
 
-- ⚡ Fun fact **I play the Guitar and Workout regularly.**
+- ⚡ Fun fact **I play Guitar and Workout regularly.**
 <br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
