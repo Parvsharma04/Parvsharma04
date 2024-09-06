@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parvsharma04&label=Profile%20views&color=0e75b6&style=flat" alt="parvsharma04" /> </p>
 
 
-- 🌱 I’m currently learning **Express.js, Node.js, MongoDB**
+- 🌱 I’m currently learning **Cloud, Dockerization and Web3**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://parvsharma04.netlify.app/)
 
