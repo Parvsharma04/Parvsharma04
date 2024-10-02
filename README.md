@@ -1,4 +1,4 @@
-![MasterHead](https://cheery-jelly-d48aa3.netlify.app/pink%20yellow%20Coming%20Soon%20retro%20(1).gif)
+<!--![MasterHead](https://cheery-jelly-d48aa3.netlify.app/pink%20yellow%20Coming%20Soon%20retro%20(1).gif)--!>
 
 <h1 align="center">Hi 👋, I'm Parv</h1>
 <h3 align="center">A Passionate Full-stack Developer from India</h3>
