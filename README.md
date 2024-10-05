@@ -14,7 +14,7 @@
 ### About Me
 
 - 🌱 Currently learning **Cloud, Dockerization, and Web3**.
-- 💬 Ask me about **React, Vite, Bootstrap, Tailwind**.
+- 💬 Ask me about **Next, React, Vite, Bootstrap, Tailwind**.
 - 📫 Reach me at **sharmaparv.2004@gmail.com**.
 - 📄 Check out my [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/parv-sharma-470498259/).
