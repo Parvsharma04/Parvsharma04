@@ -7,13 +7,13 @@
   <img src="https://komarev.com/ghpvc/?username=parvsharma04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
+<!--- 👨‍💻 All my projects are available at my [Portfolio](https://parvsharma04.netlify.app/).-->
 <!-- Optional: You can re-add this image -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cheery-jelly-d48aa3.netlify.app/giphy%20(1).gif"/> -->
 
 ### About Me
 
 - 🌱 Currently learning **Cloud, Dockerization, and Web3**.
-<!--- 👨‍💻 All my projects are available at my [Portfolio](https://parvsharma04.netlify.app/).-->
 - 💬 Ask me about **React, Vite, Bootstrap, Tailwind**.
 - 📫 Reach me at **sharmaparv.2004@gmail.com**.
 - 📄 Check out my [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf).
