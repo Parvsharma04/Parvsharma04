@@ -13,7 +13,7 @@
 ### About Me
 
 - 🌱 Currently learning **Cloud, Dockerization, and Web3**.
-- 👨‍💻 All my projects are available at my [Portfolio](https://parvsharma04.netlify.app/).
+<!--- 👨‍💻 All my projects are available at my [Portfolio](https://parvsharma04.netlify.app/).-->
 - 💬 Ask me about **React, Vite, Bootstrap, Tailwind**.
 - 📫 Reach me at **sharmaparv.2004@gmail.com**.
 - 📄 Check out my [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf).
