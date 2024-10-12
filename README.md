@@ -40,7 +40,7 @@
 
 ---
 
-### Languages and Tools:
+<!-- ### Languages and Tools:
 
 <p align="left">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -93,16 +93,16 @@
   </a>
 </p>
 
----
+--- -->
 
 ### GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parvsharma04&" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=Parvsharma04&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parvsharma04&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Parvsharma04&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </p>
 
 <p align="center">
