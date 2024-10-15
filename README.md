@@ -1,7 +1,7 @@
 <!--![MasterHead](https://cheery-jelly-d48aa3.netlify.app/pink%20yellow%20Coming%20Soon%20retro%20(1).gif)--!>
 
 <h1 align="center">Hi 👋, I'm Parv</h1>
-<h3 align="center">A Passionate Full-stack Developer from India</h3>
+<h3 align="center">Full-Stack Dev</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=parvsharma04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -14,14 +14,14 @@
 ### About Me
 
 - 🌱 Currently learning **Cloud, Dockerization, and Web3**.
-- 💬 Ask me about **Next, React, Vite, Bootstrap, Tailwind**.
+<!-- - 💬 Ask me about **Next, React, Vite, Tailwind**.-->
 - 📫 Reach me at **sharmaparv.2004@gmail.com**.
 - 📄 Check out my [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/parv-sharma-470498259/).
 
 ---
 
-### Connect with Me:
+<!-- ### Connect with Me:
 
 <p align="left">
   <a href="https://www.codechef.com/users/parvsharma04" target="_blank">
@@ -38,7 +38,7 @@
   </a>
 </p>
 
----
+--- -->
 
 <!-- ### Languages and Tools:
 
@@ -105,6 +105,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Parvsharma04&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </p>
 
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parvsharma04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
+</p>-->
