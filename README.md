@@ -3,18 +3,17 @@
 <h1 align="center">Hi 👋, I'm Parv</h1>
 <h3 align="center">Full-Stack Dev</h3>
 
-<p align="center">
+<p align="left">
   <img src="https://komarev.com/ghpvc/?username=parvsharma04&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <!--- 👨‍💻 All my projects are available at my [Portfolio](https://parvsharma04.netlify.app/).-->
 <!-- Optional: You can re-add this image -->
 <!-- <img align="right" alt="Coding" width="400" src="https://cheery-jelly-d48aa3.netlify.app/giphy%20(1).gif"/> -->
-
+<!-- - 💬 Ask me about **Next, React, Vite, Tailwind**.-->
 ### About Me
 
 - 🌱 Currently learning **Cloud, Dockerization, and Web3**.
-<!-- - 💬 Ask me about **Next, React, Vite, Tailwind**.-->
 - 📫 Reach me at **sharmaparv.2004@gmail.com**.
 - 📄 Check out my [Resume](https://parvsharma04.netlify.app/assets/Resume.pdf).
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/parv-sharma-470498259/).
@@ -97,13 +96,11 @@
 
 ### GitHub Stats:
 
-<p align="center">
+<div style="display: flex; justify-content: space-around; flex-wrap: wrap;">
   <img src="https://streak-stats.demolab.com?user=Parvsharma04&theme=chartreuse-dark&border_radius=10&card_width=495" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Parvsharma04&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
-</p>
+</div>
+
 
 <!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=parvsharma04&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
