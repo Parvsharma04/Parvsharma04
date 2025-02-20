@@ -92,14 +92,14 @@
   </a>
 </p>
 
---- -->
-
 ### GitHub Stats:
 
 <div style="display: flex; justify-content: space-around; ">
   <img src="https://streak-stats.demolab.com?user=Parvsharma04&theme=chartreuse-dark&border_radius=10&card_width=495" />
   <img src="https://github-readme-stats.vercel.app/api?username=Parvsharma04&show_icons=true&count_private=true&include_all_commits=true&theme=chartreuse-dark&border_radius=10&card_width=495" />
 </div>
+--- -->
+
 
 
 <!--<p align="center">
